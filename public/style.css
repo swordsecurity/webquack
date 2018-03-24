@@ -1,0 +1,33 @@
+#logo-top {
+    height: 24px;
+}
+
+#slogan-top {
+    height: 16px;
+}
+
+body {
+    background: black;
+    color: white;
+}
+
+#subtag1 {
+    color:#cccccc;
+    margin-top:0;
+}
+
+#bg1 {
+    background: url(images/sunset.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.btn-outline {
+    background: transparent!important;
+    text-shadow: none;
+    color:white!important;
+    color: inherit;
+    transition: all .5s;
+}
