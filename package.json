@@ -1,0 +1,25 @@
+{
+  "name": "webquack",
+  "version": "1.0.0",
+  "description": "Quickly design websites using Bootstrap, Architect.css and live reloading.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swordsecurity/webquack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swordsecurity/webquack/issues"
+  },
+  "homepage": "https://github.com/swordsecurity/webquack#readme"
+}
