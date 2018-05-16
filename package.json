@@ -4,7 +4,7 @@
   "description": "Quickly design websites using Bootstrap, Architect.css and live reloading.",
   "main": "gulpfile.js",
   "dependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.24.4",
     "gulp": "^3.9.1",
     "gulp-webserver": "^0.9.1"
   },
